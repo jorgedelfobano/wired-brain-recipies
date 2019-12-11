@@ -3,4 +3,5 @@
 	--------
 	Café
 	Vainilla
-	Azucar moreno
+	Salsa romesco
+	Canela
